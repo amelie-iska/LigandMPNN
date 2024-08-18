@@ -138,3 +138,5 @@ dmypy.json
 5TPN_run1.json
 /RFD-runs-json.zip
 /model_params/
+/RFD-runs-json/
+/outputs/default/stats/
