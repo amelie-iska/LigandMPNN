@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+*.pdb
+*.fa
+
+
+/outputs/run_*
+5TPN_run1.json
+/RFD-runs-json.zip
+/model_params/
